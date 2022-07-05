@@ -37,4 +37,63 @@ body h1 {
     background-repeat: no-repeat;
     background-size: 100%;
 
+
+}
+
+#recipic {
+    text-align: center;
+}
+
+.lastdiv {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+
+
+
+}
+
+#lastdiv1 {
+    width: 40%;
+    box-shadow: 3px 5px gainsboro;
+    padding: 20px;
+    border-radius: 15px;
+    margin-left: 5px;
+}
+
+#lastdiv2 {
+    width: 40%;
+    box-shadow: 3px 5px gainsboro;
+    padding: 20px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
+.lastimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+#part3 {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.count {
+    margin: auto;
+    text-align: center;
+}
+
+.last {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    margin: 0px;
 }
