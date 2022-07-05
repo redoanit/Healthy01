@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body h1 {
+    font-size: 40px;
+}
+
+.orange {
+    color: orange;
+}
+
+.section1 {
+    display: flex;
+}
+
+.FastRdiv {
+    width: 40%;
+    margin: auto;
+}
+
+.BTN {
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, orange, magenta);
+}
+
+#ledis {
+    max-width: 30%;
+}
+
+.section2 {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
